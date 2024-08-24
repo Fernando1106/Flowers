@@ -3,13 +3,13 @@
 	/*----------  
 	Ruta o dominio del servidor  - Server path or domain
 	----------*/
-	const SERVERURL="http://localhost/STO/";
+	const SERVERURL="http://localhost/";
 
 
 	/*----------  
 	Nombre de la empresa o compañia -  Company or company name
 	----------*/
-	const COMPANY="flower's";
+	const COMPANY="Edit";
 
 
 	/*----------  Idioma - Language
@@ -34,9 +34,9 @@
 
 
 	/*----------  Redes sociales - Social networks  ----------*/
-	const FACEBOOK="https://www.facebook.com/";
+	const FACEBOOK="";
 	const INSTAGRAM="";
-	const YOUTUBE="https://www.youtube.com/";
+	const YOUTUBE="";
 	const TWITTER="";
 
 
